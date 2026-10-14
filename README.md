@@ -67,60 +67,60 @@ The global SaaS procurement and SaaS management platform (SMP) market is estimat
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source and self-hosted tools provide sovereign data privacy, audit transparency, and zero recurring vendor lock-in for IT asset management, subscription metering, contract tracking, and procurement automation. Sorted by GitHub Star Count (descending).
+Open-source and self-hosted tools provide sovereign data privacy, audit transparency, and zero recurring vendor lock-in for IT asset management, subscription metering, contract tracking, and procurement automation. Sorted by GitHub Stars_Count (descending).
 
-- **[Documenso](https://github.com/documenso/documenso)** [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
+- **[Documenso](https://github.com/documenso/documenso)** [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
   Open-source digital signature and document signing infrastructure (AGPL-3.0) designed as a privacy-first alternative to DocuSign. Essential for executing procurement contracts, NDAs, Master Service Agreements (MSAs), and Statements of Work (SOWs) with self-hosted cryptographic validation.
 
-- **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+- **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
   Full-featured open-source IT asset management system (AGPL-3.0). Includes comprehensive software license tracking, seat allocations, expiration alerts, supplier management, purchase order tracking, and check-in/check-out workflows to eliminate rogue SaaS seats.
 
-- **[Infracost](https://github.com/infracost/infracost)** [![GitHub stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
+- **[Infracost](https://github.com/infracost/infracost)** [![GitHub_Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
   Cloud cost estimates for Terraform, OpenTofu, and Pulumi (Apache-2.0). Provides automated FinOps shift-left spend visibility directly in pull requests, allowing procurement and engineering teams to forecast monthly cloud software commitments before signing or deploying.
 
-- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
   Open-source enterprise invoicing, vendor expense tracking, and subscription billing platform (Elastic License 2.0). Provides automated recurring expense logging, vendor payment tracking, and purchase order reconciliation.
 
-- **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+- **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
   Open-source inventory, purchasing, and supplier management platform (MIT). Powers supplier catalog management, purchase orders (POs), price-break tracking, and vendor quotation comparisons for enterprise procurement pipelines.
 
-- **[OpenCost](https://github.com/opencost/opencost)** [![GitHub stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)  
+- **[OpenCost](https://github.com/opencost/opencost)** [![GitHub_Stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)  
   Open-source, vendor-neutral Kubernetes and cloud cost allocation engine (Apache-2.0, CNCF Sandbox Project). Delivers granular cost breakdown by container, namespace, and multi-tenant software deployment to feed accurate data into cloud SaaS renewal negotiations.
 
-- **[CloudQuery](https://github.com/cloudquery/cloudquery)** [![GitHub stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers)  
+- **[CloudQuery](https://github.com/cloudquery/cloudquery)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers)  
   Open-source high-performance ELT framework for cloud, IT asset, and SaaS APIs (MPL-2.0). Extracts configuration and asset data from identity providers, AWS/GCP/Azure, GitHub, and SaaS tools into PostgreSQL/Snowflake for automated shadow IT auditing.
 
-- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   Open-source IT Service Management (ITSM) and comprehensive software asset management system (GPL-3.0). Manages software licenses, complex licensing compliance metrics, contract renewals, supplier relationships, and procurement budgets.
 
-- **[Renewhelper](https://github.com/ieax/renewhelper)** [![GitHub stars](https://img.shields.io/github/stars/ieax/renewhelper?style=social&color=white)](https://github.com/ieax/renewhelper/stargazers)  
+- **[Renewhelper](https://github.com/ieax/renewhelper)** [![GitHub_Stars](https://img.shields.io/github/stars/ieax/renewhelper?style=social&color=white)](https://github.com/ieax/renewhelper/stargazers)  
   Open-source renewal reminder system with multi-channel notifications (MIT). Supports Telegram, Bark, PushPlus, NotifyX, Resend (email), Lark, WeCom, Gotify, Ntfy, ServerChan3, and DingTalk. Configurable per-service reminders with timezone accuracy, deployable on Cloudflare Workers or self-hosted.
 
-- **[Claude Contract Renewal Radar](https://github.com/OneWave-AI/claude-skills)** [![GitHub stars](https://img.shields.io/github/stars/OneWave-AI/claude-skills?style=social&color=white)](https://github.com/OneWave-AI/claude-skills/stargazers)  
+- **[Claude Contract Renewal Radar](https://github.com/OneWave-AI/claude-skills)** [![GitHub_Stars](https://img.shields.io/github/stars/OneWave-AI/claude-skills?style=social&color=white)](https://github.com/OneWave-AI/claude-skills/stargazers)  
   Autonomous agent skill for Claude Code that sweeps executed contract directories, parses expiration dates, auto-renewal penalty clauses, notice periods, and price escalation clauses, and compiles them into a structured renewal calendar with decision alerts.
 
-- **[Keygate](https://github.com/tabloy/keygate)** [![GitHub stars](https://img.shields.io/github/stars/tabloy/keygate?style=social&color=white)](https://github.com/tabloy/keygate/stargazers)  
+- **[Keygate](https://github.com/tabloy/keygate)** [![GitHub_Stars](https://img.shields.io/github/stars/tabloy/keygate?style=social&color=white)](https://github.com/tabloy/keygate/stargazers)  
   Open-source license management platform (MIT) positioned as a self-hosted alternative to Keygen and Cryptlex. Features subscriptions, perpetual licenses, trials, floating licenses, usage metering with atomic quota enforcement, Stripe payments, and a clean administrative dashboard.
 
-- **[Candlepin](https://github.com/candlepin/candlepin)** [![GitHub stars](https://img.shields.io/github/stars/candlepin/candlepin?style=social&color=white)](https://github.com/candlepin/candlepin/stargazers)  
+- **[Candlepin](https://github.com/candlepin/candlepin)** [![GitHub_Stars](https://img.shields.io/github/stars/candlepin/candlepin?style=social&color=white)](https://github.com/candlepin/candlepin/stargazers)  
   Open-source enterprise subscription and entitlement engine (GPL-2.0). Manages software subscriptions, consumer entitlements, and product certificates from both vendor and enterprise consumer perspectives. Powers Red Hat Subscription Management.
 
-- **[Cloudforet](https://github.com/cloudforet-io/cloudforet)** [![GitHub stars](https://img.shields.io/github/stars/cloudforet-io/cloudforet?style=social&color=white)](https://github.com/cloudforet-io/cloudforet/stargazers)  
+- **[Cloudforet](https://github.com/cloudforet-io/cloudforet)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudforet-io/cloudforet?style=social&color=white)](https://github.com/cloudforet-io/cloudforet/stargazers)  
   Open-source multi-cloud governance and FinOps platform (Apache-2.0). Features unified cost visibility, budget alerts, and integrated cloud service catalog tracking across AWS, Azure, and Google Cloud.
 
-- **[draftLegal](https://github.com/AniketTati/draft-legal)** [![GitHub stars](https://img.shields.io/github/stars/AniketTati/draft-legal?style=social&color=white)](https://github.com/AniketTati/draft-legal/stargazers)  
+- **[draftLegal](https://github.com/AniketTati/draft-legal)** [![GitHub_Stars](https://img.shields.io/github/stars/AniketTati/draft-legal?style=social&color=white)](https://github.com/AniketTati/draft-legal/stargazers)  
   Open-source contract lifecycle management platform (AGPL-3.0) positioned as a self-hosted alternative to Ironclad and Harvey. Features portfolio intelligence to benchmark vendor quotes against historical contract history, review, redline, approve, and track obligations with self-hosted AI models.
 
-- **[Multi-Cloud FinOps Engine](https://github.com/priyaranjan-sahu/multi-cloud-finops)** [![GitHub stars](https://img.shields.io/github/stars/priyaranjan-sahu/multi-cloud-finops?style=social&color=white)](https://github.com/priyaranjan-sahu/multi-cloud-finops/stargazers)  
+- **[Multi-Cloud FinOps Engine](https://github.com/priyaranjan-sahu/multi-cloud-finops)** [![GitHub_Stars](https://img.shields.io/github/stars/priyaranjan-sahu/multi-cloud-finops?style=social&color=white)](https://github.com/priyaranjan-sahu/multi-cloud-finops/stargazers)  
   Open-source FinOps engine aggregating AWS, GCP, and Azure costs using FOCUS 1.0 standards. Features SaaS visibility into Stripe, Chargebee, and Zuora licenses with ML-driven seat utilization metering.
 
-- **[MCP Procurement Server](https://github.com/zavora-ai/mcp-procurement)** [![GitHub stars](https://img.shields.io/github/stars/zavora-ai/mcp-procurement?style=social&color=white)](https://github.com/zavora-ai/mcp-procurement/stargazers)  
+- **[MCP Procurement Server](https://github.com/zavora-ai/mcp-procurement)** [![GitHub_Stars](https://img.shields.io/github/stars/zavora-ai/mcp-procurement?style=social&color=white)](https://github.com/zavora-ai/mcp-procurement/stargazers)  
   Open-source Model Context Protocol (MCP) server for procurement intelligence (Rust). Features RFQ creation and quote comparison, supplier risk scoring, price benchmarking (quote vs historical avg/min/max), contract clause checking, savings opportunity detection, and automated negotiation brief generation with BATNA analysis.
 
-- **[Contract Vault CLI](https://github.com/DrBaher/contract-vault-cli)** [![GitHub stars](https://img.shields.io/github/stars/DrBaher/contract-vault-cli?style=social&color=white)](https://github.com/DrBaher/contract-vault-cli/stargazers)  
+- **[Contract Vault CLI](https://github.com/DrBaher/contract-vault-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/DrBaher/contract-vault-cli?style=social&color=white)](https://github.com/DrBaher/contract-vault-cli/stargazers)  
   Open-source, git-backed vault for executed contracts (MIT, Python zero-dependencies). Stores contract terms as `record.json` with notice windows, renewal triggers, governing laws, and values; queries deadlines and emits `.ics` calendar files.
 
-- **[SaaS Renewal Tracker](https://github.com/michaelhauge/pertama-partners-resources)** [![GitHub stars](https://img.shields.io/github/stars/michaelhauge/pertama-partners-resources?style=social&color=white)](https://github.com/michaelhauge/pertama-partners-resources/stargazers)  
+- **[SaaS Renewal Tracker](https://github.com/michaelhauge/pertama-partners-resources)** [![GitHub_Stars](https://img.shields.io/github/stars/michaelhauge/pertama-partners-resources?style=social&color=white)](https://github.com/michaelhauge/pertama-partners-resources/stargazers)  
   Open-source Python script for tracking SaaS renewals and sending email reminders (MIT). Reads renewal calendar CSVs, triggers alerts 60 days before contract expiry, and includes tactical negotiation guidance for multi-year software commitments.
 
 ---
@@ -143,7 +143,7 @@ Contributions are warmly welcome! Help make this curated list the most comprehen
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a branch**: `git checkout -b feature/add-new-tool`
 3. 📝 **Add/edit entries** in `README.md` following the established format:
-   - Include: Tool name, official link, GitHub star badge (if open-source), clear description, pricing details, and free tier limits.
+   - Include: Tool name, official link, GitHub Stars_Badge (if open-source), clear description, pricing details, and free tier limits.
 4. ✅ **Ensure accuracy**: Verify links, pricing structures, and licensing information.
 5. 🚀 **Submit a Pull Request** with a concise explanation of why the tool belongs in this list.
 
