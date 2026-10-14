@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global SaaS procurement and SaaS management platform (SMP) market is estimated at **$4.5B to $5.6B in 2025** (within a broader procurement software market exceeding **$10B**), expanding rapidly as organizations grapple with multi-cloud sprawl, shadow IT, and rising AI software expenses. The sector remains **moderately fragmented**—featuring agile AI-first procurement intake and negotiation platforms competing alongside established IT asset managers and legacy ERP/procure-to-pay suites, though steady consolidation is emerging as leading platforms acquire specialized point solutions to build unified intake-to-procure ecosystems.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Vendr](https://www.vendr.com/)**  
-
-  SaaS buying platform with market data from billions in software spend. Provides pricing benchmarks, negotiation intelligence, and buying recommendations to reduce software costs.
-
-
-
-- **[Tropic](https://www.tropicapp.io/)**  
-
-  Procurement platform with intake, approvals, and negotiation support. Features contract intelligence, spend visibility, and vendor management.
-
-
-
-- **[Vertice](https://www.vertice.one/)**  
-
-  SaaS purchasing and spend optimization platform. Tracks renewals, benchmarks pricing, and provides negotiation support backed by market data.
-
-
-
-- **[Zip](https://ziphq.com/)**  
-
-  Intake-to-pay procurement orchestration platform. Features intake forms, approvals, vendor management, and spend analytics.
-
-
-
-- **[Sastrify](https://www.sastrify.com/)**  
-
-  SaaS procurement platform for SMBs and mid-market. Provides license optimization, renewal management, and negotiation support.
-
-
-
-- **[Torii](https://www.toriihq.com/)**  
-
-  SaaS management platform with discovery, license optimization, and renewal tracking. Identifies unused licenses and shadow IT.
-
-
-
-- **[Zylo](https://zylo.com/)**  
-
-  SaaS management and optimization platform. Features license utilization, renewal calendar, and spend analytics.
-
-
-
-- **[Productiv](https://productiv.com/)**  
-
-  SaaS management platform with engagement analytics, license optimization, and renewal intelligence.
-
-
-
-- **[Spendflo](https://www.spendflo.com/)**  
-
-  SaaS procurement and negotiation platform. Features benchmark data, negotiation support, and renewal management.
-
-
-
-- **[Cledara](https://www.cledara.com/)**  
-
-  SaaS management platform with subscription tracking, spend control, and vendor management.
+| Platform | Company Scale (Valuation / Revenue / Funding) | Starting Tier Pricing | Free Tier / Trial Limit | Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Zip](https://ziphq.com/)** | **$2.2B Valuation** ($190M Series D in 2024; ~$193M ARR; $371M total funding) | Starts at **$40,000/year** (custom enterprise contract based on user seats and modules) | **No permanent free tier or public self-serve free trial** (requires vendor sales demo & scoped enterprise proof of concept) | Intake-to-pay procurement orchestration, custom approval workflows, vendor risk management, ERP integrations, and enterprise spend visibility. |
+| **[Vendr](https://www.vendr.com/)** | **$1.0B Valuation** (Acquired by Vertice in 2026; $216M funding raised; ~$60M–$95M ARR) | Starts at **$36,000/year** (annual contract based on total managed SaaS spend) | **Free tier available**: Free pricing benchmark searches, SaaS buyer guides, negotiation playbooks, and basic approval workflows (no managed buying services) | SaaS buying platform backed by billions in verified software transaction data, pricing benchmarks, negotiation playbooks, and automated intake approvals. |
+| **[Vertice](https://www.vertice.one/)** | **$500M Valuation** ($50M Series C in Jan 2025; $101M total funding; ~$69M estimated revenue) | Starts at **$30,000/year** (billed annually based on software spend and module selection) | **No free tier; no public free trial** (access via scheduled sales demo and spend discovery analysis) | SaaS purchasing and cloud spend management platform providing contract benchmarking, renewal calendars, and negotiation support. |
+| **[Productiv](https://productiv.com/)** | **~$350M–$450M Implied Valuation** ($73M total funding including $45M Series C; mid-to-high tens of millions ARR) | Starts at **$30,000–$40,000/year** (custom annual contract scaled by company headcount and integrations) | **No permanent free tier; no self-serve free trial** (custom guided proof-of-concept pilot available via sales) | SaaS management and engagement intelligence platform tracking real-time feature adoption, contract license optimization, and renewal intelligence. |
+| **[Tropic](https://www.tropicapp.io/)** | **~$200M–$300M Implied Valuation** ($67M total funding including $40M Series B; hundreds of millions in spend managed) | Starts at **$3,167/month** ($38,000/year, Tropic Core base tier billed annually) | **No free tier; no free trial** (offers one-time complimentary price-benchmark savings analysis during procurement sales process) | AI-powered procurement platform combining intake forms, assisted vendor negotiations, automated approvals, and contract intelligence. |
+| **[Torii](https://www.toriihq.com/)** | **~$100M–$250M Valuation** ($65M total funding; acquired by Freshworks in Oct 2026; ~$17M–$21M ARR) | Starts at **$0/month** for Basic tier; paid tiers average **~$32,000/year** based on employee headcount | **14-day free trial** with full feature access; **Basic free plan** limited to basic shadow IT discovery and browser/SSO visibility (no workflow automation or ERP sync) | SaaS management platform focused on automated discovery, shadow IT tracking, license deprovisioning, and renewal management. |
+| **[Zylo](https://zylo.com/)** | **~$150M–$250M Implied Valuation** ($72.5M total funding; over $30B cumulative enterprise spend managed) | Starts at **~$35,000/year** (custom annual agreement scaled by headcount and application count) | **No free tier; no self-serve free trial** (requires custom enterprise product demo) | Enterprise SaaS management platform providing license utilization tracking, renewal calendars, benchmark comparisons, and shadow IT discovery. |
+| **[Sastrify](https://www.sastrify.com/)** | **~$70M–$100M Valuation** ($45M–$55M total funding; acquired by Deel in May 2026; ~$27M–$31M ARR) | Starts at **€12,500/year** (~$13,500/year for core software management; procurement service tiers start at €15,000–€25,000/year) | **No free tier; no self-serve free trial** (offers tailored product demo and SaaS spend audit via sales consultation) | SaaS procurement and license management platform for SMBs and mid-market organizations with automated renewal tracking and pricing benchmarks. |
+| **[Spendflo](https://www.spendflo.com/)** | **~$40M–$60M Implied Valuation** ($15.4M total funding including $11M Series A; ~$15M–$26M estimated ARR) | Starts at **$2,500/month** ($30,000/year billed annually, based on annual SaaS spend volume) | **No free tier; no free trial** (offers initial complimentary tech stack spend audit and guaranteed savings assessment) | SaaS procurement platform featuring benchmark data, managed buyer negotiations, intake workflows, and renewal management with guaranteed ROI. |
+| **[Cledara](https://www.cledara.com/)** | **~$30M–$50M Implied Valuation** ($24.4M total funding; ~$10.8M estimated ARR; ~1,000 customers) | Starts at **$75/month** ($750/year billed annually for Basic tier up to 20 apps) | **No standalone free tier or free trial**; monthly fee can be waived during month 1 if paying for at least 10 software applications via Cledara virtual cards | SaaS management platform combining virtual debit cards for subscription management, spend control, approvals, and automated compliance. |
 
 
 
