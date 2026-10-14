@@ -1,46 +1,54 @@
-# Awesome-Complex-SAAS-Procurement-Negotiation-Tools
+# 🚀 Awesome Complex SaaS Procurement & Negotiation Tools [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 
-## Top Complex SaaS Procurement Negotiation Tools Ecosystem
+<p align="center">
+  <a href="assets/banner.svg">
+    <img src="assets/banner.svg" alt="Awesome Complex SaaS Procurement &amp; Negotiation Tools Banner" width="100%" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintenance" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🧭 Executive Summary & Ecosystem Overview
 
-*Focused on Contract Benchmarking, Renewal Intelligence & Spend Optimization*  
+> **Curated directory of SaaS negotiation platforms and open-source GitHub projects for SaaS procurement, IT spend management, contract intelligence, and license optimization.**
 
-**Last updated: March 2026**
+Navigating enterprise software subscriptions and SaaS contract renewals has become one of the most critical operational challenges for modern CIOs, CFOs, and procurement teams. **Awesome Complex SaaS Procurement & Negotiation Tools** compiles market-leading commercial platforms and robust open-source alternatives designed to benchmark contract terms against industry standards, track renewal deadlines, identify shadow IT, enforce license usage metering, and optimize total software spend.
 
+### 🎯 Key Focus Areas
+- 🤝 **Contract Benchmarking & Negotiation Intelligence**: Level the playing field against enterprise sales teams using historical price distribution benchmarks.
+- ⏰ **Proactive Renewal Management**: Eliminate rogue auto-renewals with automated notifications (90/60/30-day workflows).
+- 📉 **SaaS Spend Optimization & Deprovisioning**: Surface inactive licenses, reclaim unassigned seats, and optimize cloud allocations.
+- 🔓 **Self-Hosted & Open-Source CLM**: Maintain full sovereign control over executed enterprise contracts, sensitive MSA clauses, and internal RFQ pipelines.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Complex SaaS Procurement Negotiation**. These tools enable procurement teams to benchmark contract terms against market data, track renewals, enforce license usage, and automate negotiation workflows—turning software spend from a black box into an optimized portfolio.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Commercial Platforms](#-saashosted-commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [🌟 Star History](#-star-history)
+- [☕ Support & Community](#-support--community)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include Vendr, Tropic, Vertice, Zip, Sastrify, Torii, Zylo, Productiv, Spendflo, and Cledara (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, contract vault management, and open spend tracking—ideal for finance teams, IT asset managers, and developers seeking transparent, vendor-independent SaaS procurement.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global SaaS procurement and SaaS management platform (SMP) market is estimated at **$4.5B to $5.6B in 2025** (within a broader procurement software market exceeding **$10B**), expanding rapidly as organizations grapple with multi-cloud sprawl, shadow IT, and rising AI software expenses. The sector remains **moderately fragmented**—featuring agile AI-first procurement intake and negotiation platforms competing alongside established IT asset managers and legacy ERP/procure-to-pay suites, though steady consolidation is emerging as leading platforms acquire specialized point solutions to build unified intake-to-procure ecosystems.
 
-## SaaS/Hosted Platforms
+---
+
+## 🏢 SaaS/Hosted Commercial Platforms
 
 | Platform | Company Scale (Valuation / Revenue / Funding) | Starting Tier Pricing | Free Tier / Trial Limit | Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,138 +63,118 @@ The global SaaS procurement and SaaS management platform (SMP) market is estimat
 | **[Spendflo](https://www.spendflo.com/)** | **~$40M–$60M Implied Valuation** ($15.4M total funding including $11M Series A; ~$15M–$26M estimated ARR) | Starts at **$2,500/month** ($30,000/year billed annually, based on annual SaaS spend volume) | **No free tier; no free trial** (offers initial complimentary tech stack spend audit and guaranteed savings assessment) | SaaS procurement platform featuring benchmark data, managed buyer negotiations, intake workflows, and renewal management with guaranteed ROI. |
 | **[Cledara](https://www.cledara.com/)** | **~$30M–$50M Implied Valuation** ($24.4M total funding; ~$10.8M estimated ARR; ~1,000 customers) | Starts at **$75/month** ($750/year billed annually for Basic tier up to 20 apps) | **No standalone free tier or free trial**; monthly fee can be waived during month 1 if paying for at least 10 software applications via Cledara virtual cards | SaaS management platform combining virtual debit cards for subscription management, spend control, approvals, and automated compliance. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Open-source and self-hosted tools provide sovereign data privacy, audit transparency, and zero recurring vendor lock-in for IT asset management, subscription metering, contract tracking, and procurement automation. Sorted by GitHub Star Count (descending).
 
+- **[Documenso](https://github.com/documenso/documenso)** [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
+  Open-source digital signature and document signing infrastructure (AGPL-3.0) designed as a privacy-first alternative to DocuSign. Essential for executing procurement contracts, NDAs, Master Service Agreements (MSAs), and Statements of Work (SOWs) with self-hosted cryptographic validation.
 
+- **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+  Full-featured open-source IT asset management system (AGPL-3.0). Includes comprehensive software license tracking, seat allocations, expiration alerts, supplier management, purchase order tracking, and check-in/check-out workflows to eliminate rogue SaaS seats.
 
-- **[Keygate](https://github.com/tabloy/keygate)**  
+- **[Infracost](https://github.com/infracost/infracost)** [![GitHub stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
+  Cloud cost estimates for Terraform, OpenTofu, and Pulumi (Apache-2.0). Provides automated FinOps shift-left spend visibility directly in pull requests, allowing procurement and engineering teams to forecast monthly cloud software commitments before signing or deploying.
 
-  Open-source license management platform (MIT) positioned as self-hosted alternative to Keygen and Cryptlex . **The most comprehensive open-source SaaS license server available.** Features subscriptions, perpetual licenses, trials, floating (concurrent) licenses, usage metering with atomic quota enforcement, Stripe payments with three-layer reliability, team seats and feature entitlements, and a clean admin dashboard . Handles activation, verification, suspension, revocation, and dunning . One binary, one database, full control—free forever .
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+  Open-source enterprise invoicing, vendor expense tracking, and subscription billing platform (Elastic License 2.0). Provides automated recurring expense logging, vendor payment tracking, and purchase order reconciliation.
 
+- **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+  Open-source inventory, purchasing, and supplier management platform (MIT). Powers supplier catalog management, purchase orders (POs), price-break tracking, and vendor quotation comparisons for enterprise procurement pipelines.
 
+- **[OpenCost](https://github.com/opencost/opencost)** [![GitHub stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)  
+  Open-source, vendor-neutral Kubernetes and cloud cost allocation engine (Apache-2.0, CNCF Sandbox Project). Delivers granular cost breakdown by container, namespace, and multi-tenant software deployment to feed accurate data into cloud SaaS renewal negotiations.
 
-- **[Contract Vault](https://pypi.org/project/contract-vault/)**  
+- **[CloudQuery](https://github.com/cloudquery/cloudquery)** [![GitHub stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers)  
+  Open-source high-performance ELT framework for cloud, IT asset, and SaaS APIs (MPL-2.0). Extracts configuration and asset data from identity providers, AWS/GCP/Azure, GitHub, and SaaS tools into PostgreSQL/Snowflake for automated shadow IT auditing.
 
-  Open-source, git-backed vault for executed contracts (zero dependencies) . **The most practical open-source contract tracker for SaaS procurement.** Each contract stored as a `record.json` with parties, effective/expiration dates, term structure (length, auto-renew, notice period, renewal window), governing law, value, obligations, and provenance metadata . CLI commands: `ingest` (extract and store), `find` (query by counterparty, governing law, currency, value, auto-renew, expiration), `due` (project upcoming actions, emit ICS calendar files) . Idempotent re-ingestion by SHA256 hash. Walks up directories like git to find vault .
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+  Open-source IT Service Management (ITSM) and comprehensive software asset management system (GPL-3.0). Manages software licenses, complex licensing compliance metrics, contract renewals, supplier relationships, and procurement budgets.
 
+- **[Renewhelper](https://github.com/ieax/renewhelper)** [![GitHub stars](https://img.shields.io/github/stars/ieax/renewhelper?style=social&color=white)](https://github.com/ieax/renewhelper/stargazers)  
+  Open-source renewal reminder system with multi-channel notifications (MIT). Supports Telegram, Bark, PushPlus, NotifyX, Resend (email), Lark, WeCom, Gotify, Ntfy, ServerChan3, and DingTalk. Configurable per-service reminders with timezone accuracy, deployable on Cloudflare Workers or self-hosted.
 
+- **[Claude Contract Renewal Radar](https://github.com/OneWave-AI/claude-skills)** [![GitHub stars](https://img.shields.io/github/stars/OneWave-AI/claude-skills?style=social&color=white)](https://github.com/OneWave-AI/claude-skills/stargazers)  
+  Autonomous agent skill for Claude Code that sweeps executed contract directories, parses expiration dates, auto-renewal penalty clauses, notice periods, and price escalation clauses, and compiles them into a structured renewal calendar with decision alerts.
 
-- **[SaaS Renewal Tracker](https://github.com/michaelhauge/pertama-partners-resources)**  
+- **[Keygate](https://github.com/tabloy/keygate)** [![GitHub stars](https://img.shields.io/github/stars/tabloy/keygate?style=social&color=white)](https://github.com/tabloy/keygate/stargazers)  
+  Open-source license management platform (MIT) positioned as a self-hosted alternative to Keygen and Cryptlex. Features subscriptions, perpetual licenses, trials, floating licenses, usage metering with atomic quota enforcement, Stripe payments, and a clean administrative dashboard.
 
-  Open-source Python script for tracking SaaS renewals and sending email reminders (MIT) . **Simple but effective for smaller procurement teams.** Reads renewal calendar CSV, sends email alerts 60 days before renewal . Includes negotiation guidance: begin negotiations 60 days out, offer 2-3 year commitment for 15-25% discount, vendors more flexible in last two weeks of quarter . Run monthly via cron or GitHub Actions .
+- **[Candlepin](https://github.com/candlepin/candlepin)** [![GitHub stars](https://img.shields.io/github/stars/candlepin/candlepin?style=social&color=white)](https://github.com/candlepin/candlepin/stargazers)  
+  Open-source enterprise subscription and entitlement engine (GPL-2.0). Manages software subscriptions, consumer entitlements, and product certificates from both vendor and enterprise consumer perspectives. Powers Red Hat Subscription Management.
 
+- **[Cloudforet](https://github.com/cloudforet-io/cloudforet)** [![GitHub stars](https://img.shields.io/github/stars/cloudforet-io/cloudforet?style=social&color=white)](https://github.com/cloudforet-io/cloudforet/stargazers)  
+  Open-source multi-cloud governance and FinOps platform (Apache-2.0). Features unified cost visibility, budget alerts, and integrated cloud service catalog tracking across AWS, Azure, and Google Cloud.
 
+- **[draftLegal](https://github.com/AniketTati/draft-legal)** [![GitHub stars](https://img.shields.io/github/stars/AniketTati/draft-legal?style=social&color=white)](https://github.com/AniketTati/draft-legal/stargazers)  
+  Open-source contract lifecycle management platform (AGPL-3.0) positioned as a self-hosted alternative to Ironclad and Harvey. Features portfolio intelligence to benchmark vendor quotes against historical contract history, review, redline, approve, and track obligations with self-hosted AI models.
 
-- **[Renewhelper](https://github.com/ieax/renewhelper)**  
+- **[Multi-Cloud FinOps Engine](https://github.com/priyaranjan-sahu/multi-cloud-finops)** [![GitHub stars](https://img.shields.io/github/stars/priyaranjan-sahu/multi-cloud-finops?style=social&color=white)](https://github.com/priyaranjan-sahu/multi-cloud-finops/stargazers)  
+  Open-source FinOps engine aggregating AWS, GCP, and Azure costs using FOCUS 1.0 standards. Features SaaS visibility into Stripe, Chargebee, and Zuora licenses with ML-driven seat utilization metering.
 
-  Open-source renewal reminder system with multi-channel notifications (MIT) . Supports Telegram, Bark, PushPlus, NotifyX, Resend (email), Lark, WeCom, Gotify, Ntfy, ServerChan3, DingTalk . **The most notification-flexible open-source renewal tracker.** Configurable per-service reminders with timezone accuracy . Cloudflare Worker deployment or self-hosted.
+- **[MCP Procurement Server](https://github.com/zavora-ai/mcp-procurement)** [![GitHub stars](https://img.shields.io/github/stars/zavora-ai/mcp-procurement?style=social&color=white)](https://github.com/zavora-ai/mcp-procurement/stargazers)  
+  Open-source Model Context Protocol (MCP) server for procurement intelligence (Rust). Features RFQ creation and quote comparison, supplier risk scoring, price benchmarking (quote vs historical avg/min/max), contract clause checking, savings opportunity detection, and automated negotiation brief generation with BATNA analysis.
 
+- **[Contract Vault CLI](https://github.com/DrBaher/contract-vault-cli)** [![GitHub stars](https://img.shields.io/github/stars/DrBaher/contract-vault-cli?style=social&color=white)](https://github.com/DrBaher/contract-vault-cli/stargazers)  
+  Open-source, git-backed vault for executed contracts (MIT, Python zero-dependencies). Stores contract terms as `record.json` with notice windows, renewal triggers, governing laws, and values; queries deadlines and emits `.ics` calendar files.
 
-
-- **[Renewal Reminder (Claude Code Skill)](https://www.npmjs.com/package/@arkone_ai/renewal-reminder)**  
-
-  Claude Code skill that pulls upcoming contract renewals from CRM (HubSpot, Salesforce, Pipedrive) and sends formatted alerts to Slack or email (MIT) . Groups accounts by urgency (30/60/90 days), derives health signals from CRM activity, and saves renewal tracker to markdown file .
-
-
-
-- **[Multi-Cloud FinOps Engine](https://github.com/priyaranjan-sahu/multi-cloud-finops)**  
-
-  Open-source FinOps engine aggregating AWS, GCP, and Azure costs using FOCUS 1.0 standards (Community Edition) . **Enterprise Edition adds SaaS visibility** including Stripe, Chargebee, and Zuora licenses, AI license metering with Ensemble ML models to cut unused seats (average additional savings of 32%) . Self-healing IaC generates Terraform/OpenTofu PRs for cost savings .
-
-
-
-- **[Orkestrix](https://www.sheepnav.com/tools/orkestrix)**  
-
-  Open-source SaaS and AI spend tracker (license varies) . Unified dashboard for all SaaS subscriptions and AI service costs (OpenAI, AWS, Slack, etc.) . Features automatic bill import, budget alerts, visual reports, and self-hosted deployment for data privacy .
-
-
-
-- **[MCP Procurement Server](https://crates.io/crates/mcp-procurement)**  
-
-  Open-source MCP server for procurement intelligence (Rust) . Features RFQ creation and comparison, supplier risk scoring, price benchmarking (quote vs historical avg/min/max), contract clause checking (auto-renewal, liability, IP, non-compete flags), demand forecasting, savings opportunity detection (same SKU at different prices), maverick spend detection, and **negotiation brief generation** with leverage analysis, BATNA, talking points, and strategy . **The most negotiation-focused open-source procurement tool available.**
-
-
-
-- **[draftLegal](https://github.com/AniketTati/draft-legal)**  
-
-  Open-source contract lifecycle platform (AGPL-3.0) positioned as self-hosted alternative to Ironclad and Harvey . **Portfolio intelligence** lets you ask "is this $200k vendor quote fair?" and benchmarks against your real contract history with citations . Features draft, review, redline, negotiate, approve, e-sign, and obligation tracking with AI agents at every step . Self-hosted with Docker Compose, bring your own model (Claude, GPT, Gemini) .
-
-
-
-- **[Candlepin](https://github.com/jamestiotio/candlepin)**  
-
-  Open-source subscription and entitlement engine (GPL) . Manages software subscriptions from both vendor and customer perspectives. Vendors create software database, manage policies, revoke rights; customers consume entitlements and transparently manage their software portfolio . REST API with SQL backend .
-
-
-
-- **[Bunny App](https://rubygems.org/gems/bunny_app)**  
-
-  Open-source Ruby gem for SaaS subscription management, CPQ, billing, and CRM (MIT) . Handles subscription lifecycle, configure-price-quote workflows, and customer relationship management .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Crumbls Subscriptions](https://laraplugins.io/plugins/crumbls/subscriptions)** — Laravel package for plan-based subscriptions with feature entitlements, usage metering, and quota enforcement. Create features (users, API calls, SSL) with per-plan values; enforce limits via `canUseFeature()` and `recordFeatureUsage()` .
-
-- **[EVB-IT digital](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/evb-it-digital)** — Open-source contract generation system for public sector procurement (German government) . Low-code playbook interface for creating complex IT contracts with interactive dialogues . Outputs docx, html, or direct process integration .
-
-- Community **n8n** workflows for multi-stage SaaS renewal alerts (45/30/14/7 days) from Google Sheets to Slack with deduplication and ROI-focused messaging .
-
-- **OpenCost** and **Kubecost** for Kubernetes cost allocation feeding broader SaaS spend visibility .
-
-
-
-**Frameworks for building custom systems**: Combine **Keygate** for license server management with **Contract Vault** for executed contract tracking, **MCP Procurement Server** for negotiation intelligence and RFQ workflows, **Renewhelper** for multi-channel renewal alerts, and **PostgreSQL + git** for persistence—creating a fully self-hosted, enterprise-grade SaaS procurement platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- SaaS procurement tools handling contract and spend data must comply with data protection regulations (GDPR, CCPA, etc.) and financial controls.
-
-- **Open-source SaaS procurement is fragmented.** Keygate handles license server management, Contract Vault handles contract tracking, MCP Procurement handles negotiation intelligence, and Renewhelper handles renewal alerts. **No single open-source tool provides the end-to-end procurement orchestration of Vendr or Tropic.** Integration work is required.
-
-- **Negotiation leverage comes from market data.** Vendr, Tropic, and Vertice derive benchmarks from billions in aggregated spend data. Open-source alternatives like MCP Procurement benchmark against **your own historical data**—valuable for internal consistency but lacking external market context . External benchmarking typically requires commercial data sources.
-
-- **Contract analytics require data quality.** Contract Vault's value depends on ingestion accuracy (via extract-cli) and record completeness. Garbage in, garbage out—review extracted fields for accuracy before relying on renewal alerts or obligation tracking .
-
-- **License metering is essential for optimization.** Keygate's usage metering with atomic quota enforcement prevents over-provisioning and enables true-ups . Without accurate usage data, negotiation is based on guesswork.
-
-- Self-hosted open-source solutions require proper security hardening, Stripe configuration, and ongoing maintenance. Contract data is commercially sensitive—access controls and audit trails are essential.
-
-
+- **[SaaS Renewal Tracker](https://github.com/michaelhauge/pertama-partners-resources)** [![GitHub stars](https://img.shields.io/github/stars/michaelhauge/pertama-partners-resources?style=social&color=white)](https://github.com/michaelhauge/pertama-partners-resources/stargazers)  
+  Open-source Python script for tracking SaaS renewals and sending email reminders (MIT). Reads renewal calendar CSVs, triggers alerts 60 days before contract expiry, and includes tactical negotiation guidance for multi-year software commitments.
 
 ---
 
+## 🛠️ Frameworks for Building Custom Procurement Stacks
 
+Combine best-of-breed open-source modules to engineer a sovereign, enterprise-grade SaaS procurement and contract negotiation pipeline without vendor lock-in:
+- **Contract Execution & Storage**: [Documenso](https://github.com/documenso/documenso) for legal e-signing + [Contract Vault CLI](https://github.com/DrBaher/contract-vault-cli) for Git-backed contract metadata versioning.
+- **License Server & Usage Metering**: [Keygate](https://github.com/tabloy/keygate) or [Candlepin](https://github.com/candlepin/candlepin) for quota enforcement and seat deprovisioning.
+- **Negotiation Intelligence & Agent Workflows**: [MCP Procurement Server](https://github.com/zavora-ai/mcp-procurement) for AI-driven BATNA calculation and RFQ scoring.
+- **Automated Renewal & Expiry Alerts**: [Renewhelper](https://github.com/ieax/renewhelper) or [Claude Contract Renewal Radar](https://github.com/OneWave-AI/claude-skills) for multi-channel Slack/Telegram/email notification workflows.
+- **Asset & Cloud Spend Reconciliation**: [Snipe-IT](https://github.com/snipe/snipe-it) + [Infracost](https://github.com/infracost/infracost) + [OpenCost](https://github.com/opencost/opencost).
 
-**Made for procurement managers, IT asset managers, finance teams, and developers building transparent SaaS procurement solutions.**  
+---
 
-Let's make Complex SaaS Procurement Negotiation more open, data-driven, and cost-effective.
+## 🤝 How to Contribute
+
+Contributions are warmly welcome! Help make this curated list the most comprehensive resource for software procurement:
+
+1. 🍴 **Fork** this repository.
+2. 🌿 **Create a branch**: `git checkout -b feature/add-new-tool`
+3. 📝 **Add/edit entries** in `README.md` following the established format:
+   - Include: Tool name, official link, GitHub star badge (if open-source), clear description, pricing details, and free tier limits.
+4. ✅ **Ensure accuracy**: Verify links, pricing structures, and licensing information.
+5. 🚀 **Submit a Pull Request** with a concise explanation of why the tool belongs in this list.
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Complex-SAAS-Procurement-Negotiation-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Complex-SAAS-Procurement-Negotiation-Tools&type=date&legend=top-left)
+
+---
+
+## ☕ Support & Community
+
+Thank you for exploring and utilizing **Awesome Complex SaaS Procurement & Negotiation Tools**! 💙
+
+If you find this repository valuable for your procurement workflows, contract benchmarks, or spend optimization projects, please consider showing your support:
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and share** with fellow finance leaders, IT asset managers, and developers.
+- 💬 **Join our community** on [Discord](https://discord.gg/jc4xtF58Ve) to discuss procurement strategies and tools.
+- ☕ **Buy me a coffee / Sponsor the project**: Support continuous curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated collection** provided for informational purposes only—not an official endorsement or legal advice.
+- SaaS procurement tools processing commercial contracts, invoices, and employee records must comply with regional data protection standards (GDPR, CCPA, SOC 2, HIPAA) and corporate financial controls.
+- **Negotiation leverage requires accurate market context**: Commercial platforms (Vendr, Tropic, Vertice) leverage billions in anonymized cross-vendor transactions, while open-source tools evaluate internal historical spend. Combining both strategies produces optimal negotiation outcomes.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for procurement managers, IT directors, finance leaders, and developers building transparent SaaS procurement solutions.</b>
+</p>

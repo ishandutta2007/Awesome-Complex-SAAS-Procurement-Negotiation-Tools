@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+
+    <!-- Vibrant Accents -->
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.0" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1f2937" stroke-width="0.8" opacity="0.6" />
+      <circle cx="40" cy="0" r="1.5" fill="#38bdf8" opacity="0.3" />
+    </pattern>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 38px;
+        fill: #f9fafb;
+        letter-spacing: -0.5px;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+        fill: #94a3b8;
+        letter-spacing: 0.2px;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        fill: #38bdf8;
+      }
+      /* Ambient dynamic glow and flows */
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.35; transform: scale(1); }
+        50% { opacity: 0.65; transform: scale(1.08); }
+      }
+      @keyframes floatSlow {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-8px) rotate(1.5deg); }
+      }
+      @keyframes waveFlow {
+        0% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -120; }
+      }
+      @keyframes pingDot {
+        0% { r: 3px; opacity: 0.9; }
+        50% { r: 6px; opacity: 0.3; }
+        100% { r: 3px; opacity: 0.9; }
+      }
+      .glow-orb {
+        animation: pulseGlow 6s ease-in-out infinite;
+        transform-origin: 950px 140px;
+      }
+      .floating-card {
+        animation: floatSlow 7s ease-in-out infinite;
+      }
+      .animated-wave {
+        stroke-dasharray: 8 6;
+        animation: waveFlow 25s linear infinite;
+      }
+      .pulsing-dot {
+        animation: pingDot 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Deep High-Tech Background -->
+  <rect width="1200" height="340" rx="16" fill="url(#bgGradient)" />
+  <rect width="1200" height="340" rx="16" fill="url(#grid)" />
+
+  <!-- Ambient Dynamic Glows (in background) -->
+  <circle class="glow-orb" cx="950" cy="140" r="160" fill="url(#glowGrad)" filter="blur(20px)" />
+  <circle cx="200" cy="280" r="120" fill="#38bdf8" opacity="0.08" filter="blur(40px)" />
+
+  <!-- Dynamic Data Flow Lines (in background) -->
+  <path class="animated-wave" d="M -50 220 Q 300 290 600 210 T 1250 200" fill="none" stroke="#6366f1" stroke-width="2.5" opacity="0.4" />
+  <path class="animated-wave" d="M -50 260 Q 350 180 750 250 T 1250 230" fill="none" stroke="#38bdf8" stroke-width="1.8" opacity="0.35" style="animation-duration: 35s;" />
+
+  <!-- Dynamic Decorative Glass Panels on Right -->
+  <g class="floating-card" opacity="0.85">
+    <!-- Mini KPI Card 1 -->
+    <rect x="860" y="55" width="280" height="64" rx="12" fill="#1e293b" fill-opacity="0.75" stroke="#334155" stroke-width="1.2" />
+    <circle cx="890" cy="87" r="14" fill="#38bdf8" fill-opacity="0.15" />
+    <text x="890" y="92" text-anchor="middle" font-size="14" fill="#38bdf8">⚡</text>
+    <text x="918" y="78" font-family="sans-serif" font-size="12" font-weight="600" fill="#94a3b8">Contract Benchmarking</text>
+    <text x="918" y="99" font-family="sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Market Pricing Data</text>
+    <circle class="pulsing-dot" cx="1115" cy="72" r="4" fill="#10b981" />
+
+    <!-- Mini KPI Card 2 -->
+    <rect x="830" y="135" width="310" height="68" rx="12" fill="#1e293b" fill-opacity="0.75" stroke="#334155" stroke-width="1.2" />
+    <circle cx="862" cy="169" r="14" fill="#818cf8" fill-opacity="0.15" />
+    <text x="862" y="174" text-anchor="middle" font-size="14" fill="#818cf8">📊</text>
+    <text x="892" y="160" font-family="sans-serif" font-size="12" font-weight="600" fill="#94a3b8">Renewal Intelligence</text>
+    <text x="892" y="181" font-family="sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Automated ROI &amp; Alerts</text>
+    <circle class="pulsing-dot" cx="1115" cy="153" r="4" fill="#38bdf8" />
+
+    <!-- Mini KPI Card 3 -->
+    <rect x="880" y="218" width="260" height="64" rx="12" fill="#1e293b" fill-opacity="0.75" stroke="#334155" stroke-width="1.2" />
+    <circle cx="910" cy="250" r="14" fill="#c084fc" fill-opacity="0.15" />
+    <text x="910" y="255" text-anchor="middle" font-size="14" fill="#c084fc">🛡️</text>
+    <text x="936" y="241" font-family="sans-serif" font-size="12" font-weight="600" fill="#94a3b8">SaaS Spend Optimization</text>
+    <text x="936" y="262" font-family="sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Zero Shadow IT</text>
+    <circle class="pulsing-dot" cx="1115" cy="235" r="4" fill="#818cf8" />
+  </g>
+
+  <!-- Clear Foreground Content (Always Crisp & Legible) -->
+  <g transform="translate(60, 0)">
+    <!-- Pill Category Badge -->
+    <g transform="translate(0, 52)">
+      <rect width="320" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4" />
+      <circle cx="16" cy="15" r="4.5" fill="#38bdf8" />
+      <text x="30" y="20" class="badge-text">ENTERPRISE SAAS PROCUREMENT &amp; CLM</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="0" y="132" class="title">Awesome Complex SaaS</text>
+    <text x="0" y="178" class="title" fill="url(#primaryGrad)">Procurement &amp; Negotiation</text>
+
+    <!-- Subtitle -->
+    <text x="0" y="222" class="subtitle">Contract Benchmarking, Renewal Intelligence &amp; Open Spend Optimization</text>
+
+    <!-- Feature Pills in Foreground -->
+    <g transform="translate(0, 252)">
+      <!-- Pill 1 -->
+      <rect x="0" y="0" width="165" height="34" rx="17" fill="#0f172a" stroke="#334155" stroke-width="1.2" />
+      <text x="16" y="22" font-family="sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">🤝 Price Benchmarks</text>
+
+      <!-- Pill 2 -->
+      <rect x="178" y="0" width="165" height="34" rx="17" fill="#0f172a" stroke="#334155" stroke-width="1.2" />
+      <text x="194" y="22" font-family="sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">⏰ Renewal Tracking</text>
+
+      <!-- Pill 3 -->
+      <rect x="355" y="0" width="170" height="34" rx="17" fill="#0f172a" stroke="#334155" stroke-width="1.2" />
+      <text x="371" y="22" font-family="sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">💻 Open-Source Tools</text>
+
+      <!-- Pill 4 -->
+      <rect x="537" y="0" width="160" height="34" rx="17" fill="#0f172a" stroke="#334155" stroke-width="1.2" />
+      <text x="553" y="22" font-family="sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">📉 License Savings</text>
+    </g>
+  </g>
+</svg>
